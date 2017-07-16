@@ -1,0 +1,19 @@
+{
+  "name": "nytreact",
+  "version": "1.0.0",
+  "description": "// This is an app that Scraps and pills articals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Armmand/nytreact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Armmand/nytreact/issues"
+  },
+  "homepage": "https://github.com/Armmand/nytreact#readme"
+}
